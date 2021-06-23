@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @nguyea36
+- 👀 I’m interested in computational neuroscience and brain-inspired computing
+- 🌱 I’m currently studying CS and neuroscience at the University of Washington
+- 💞️ I’m looking to collaborate on open science
+- 📫 You can reach me at my email (@cs.washington.edu or @uw.edu)
+
+<!---
+nguyea36/nguyea36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
