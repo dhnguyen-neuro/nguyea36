@@ -1,6 +1,6 @@
 - Hi, I’m Drew
 - I’m interested in computational neuroscience, brain-inspired computing, and artificial intelligence
-- I’m studied CS and neuroscience at the University of Washington
+- I studied CS and neuroscience at the University of Washington
 - I'm currently researching visual perception at the NIMH
 - You can reach me at my email (@gmail.com)
 
